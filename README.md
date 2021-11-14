@@ -7,6 +7,10 @@ When I have free time, I contribute to my own or community GitHub projects.
 
 You can find the list of my most interesting projects pinned below. 
 
+### Recent blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Skills :muscle:
 
 - JavaScript/TypeScript
@@ -14,9 +18,3 @@ You can find the list of my most interesting projects pinned below.
 - SharePoint
 - Power Automate
 - Anything necessary to get things done
-
-### Contacts :envelope:
-
-- [LinkedIn](https://www.linkedin.com/in/sergeisergeev/)
-- [Twitter](https://twitter.com/sergeev_srg)
-- [Blog](https://spblog.net)
