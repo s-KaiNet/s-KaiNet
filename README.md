@@ -10,6 +10,14 @@ When I have free time, I contribute to my own or community GitHub projects.
 
 You can find the list of my most interesting projects pinned below. 
 
+## Skills
+
+- JavaScript/TypeScript
+- C#, Azure, NodeJS
+- SharePoint
+- Power Automate
+- Anything necessary to get things done
+
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Configure Postman to be easily used with any Azure AD protected API &lpar;SharePoint, Graph, custom etc.&rpar;](https://spblog.net/post/2021/11/02/configure-postman-to-be-easily-used-with-any-azure-ad-protected-api-sharepoint-graph-etc)
@@ -19,13 +27,7 @@ You can find the list of my most interesting projects pinned below.
 - [spfx-fast-serve new feature: hot module replacement &lpar;aka HMR&rpar;](https://spblog.net/post/2021/07/28/spfx-fast-serve-new-features-native-serve-and-hot-module-replacement-aka-hmr)
 <!-- BLOG-POST-LIST:END -->
 
-## Skills
 
-- JavaScript/TypeScript
-- C#, Azure, NodeJS
-- SharePoint
-- Power Automate
-- Anything necessary to get things done
 
 ## Github profile stats
 
