@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/sergeev_srg?label=Follow)](https://twitter.com/sergeev_srg)
+[![Linkedin: Sergei Sergeev](https://img.shields.io/badge/-Sergei%20Sergeev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeisergeev/)](https://www.linkedin.com/in/sergeisergeev/)
 
 My name is Sergei.   
 
@@ -7,7 +10,7 @@ When I have free time, I contribute to my own or community GitHub projects.
 
 You can find the list of my most interesting projects pinned below. 
 
-### Recent blog posts
+## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Configure Postman to be easily used with any Azure AD protected API &lpar;SharePoint, Graph, custom etc.&rpar;](https://spblog.net/post/2021/11/02/configure-postman-to-be-easily-used-with-any-azure-ad-protected-api-sharepoint-graph-etc)
 - [spfx-fast-serve with SPFx 1.13 support](https://spblog.net/post/2021/10/26/spfx-fast-serve-with-spfx-1-13-support)
@@ -16,7 +19,7 @@ You can find the list of my most interesting projects pinned below.
 - [spfx-fast-serve new feature: hot module replacement &lpar;aka HMR&rpar;](https://spblog.net/post/2021/07/28/spfx-fast-serve-new-features-native-serve-and-hot-module-replacement-aka-hmr)
 <!-- BLOG-POST-LIST:END -->
 
-### Skills :muscle:
+## Skills :muscle:
 
 - JavaScript/TypeScript
 - C#, Azure, NodeJS
