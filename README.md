@@ -1,7 +1,7 @@
 # Hi there 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sergeev_srg?label=Follow)](https://twitter.com/sergeev_srg)
-[![Linkedin: Sergei Sergeev](https://img.shields.io/badge/-Sergei%20Sergeev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeisergeev/)](https://www.linkedin.com/in/sergeisergeev/)
+[![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sergeev_srg)
+[![Linkedin: Sergei Sergeev](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeisergeev/)](https://www.linkedin.com/in/sergeisergeev/)
 
 My name is Sergei.   
 
