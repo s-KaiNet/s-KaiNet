@@ -19,6 +19,14 @@ You can find the list of my most interesting projects pinned below.
 - [spfx-fast-serve new feature: hot module replacement &lpar;aka HMR&rpar;](https://spblog.net/post/2021/07/28/spfx-fast-serve-new-features-native-serve-and-hot-module-replacement-aka-hmr)
 <!-- BLOG-POST-LIST:END -->
 
+## Skills
+
+- JavaScript/TypeScript
+- C#, Azure, NodeJS
+- SharePoint
+- Power Automate
+- Anything necessary to get things done
+
 ## Github profile stats
 
 [![Sergei's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kainet&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
