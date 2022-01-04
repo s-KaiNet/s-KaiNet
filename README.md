@@ -20,11 +20,11 @@ You can find the list of my most interesting projects pinned below.
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building PnP Provisioning notifier Bot](https://spblog.net/post/2022/01/04/building-pnp-provisioning-notifier-bot)
 - [SP Formatter: Form Layouts support!](https://spblog.net/post/2021/12/22/sp-formatter-form-layouts-support)
 - [Power Automate tips: how to execute a flow in the order of items creation in SharePoint](https://spblog.net/post/2021/12/15/power-automate-tips-how-to-execute-a-flow-in-the-order-of-items-creation-in-sharepoint)
 - [Configure Postman to be easily used with any Azure AD protected API &lpar;SharePoint, Graph, custom etc.&rpar;](https://spblog.net/post/2021/11/02/configure-postman-to-be-easily-used-with-any-azure-ad-protected-api-sharepoint-graph-etc)
 - [spfx-fast-serve with SPFx 1.13 support](https://spblog.net/post/2021/10/26/spfx-fast-serve-with-spfx-1-13-support)
-- [Call Azure AD secured Azure function from Logic App or another Function with Managed Identity](https://spblog.net/post/2021/09/28/call-azure-ad-secured-azure-function-from-logic-app-or-another-function-with-managed-identity)
 <!-- BLOG-POST-LIST:END -->
 
 
