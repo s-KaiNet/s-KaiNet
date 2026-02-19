@@ -29,6 +29,4 @@ You can find the list of my most interesting projects pinned below.
 
 
 
-## Github profile stats
-
-[![Sergei's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-kainet&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
