@@ -1,22 +1,6 @@
-# Hi there 👋
+# Hey, I'm Sergei 👋
 
-[![Twitter Follow](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sergeev_srg)
-[![Linkedin: Sergei Sergeev](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergeisergeev/)](https://www.linkedin.com/in/sergeisergeev/)
-
-My name is Sergei.   
-
-I'm Microsoft MVP (M365 Development) working mostly as a developer and consultant with Microsoft 365 technology stack. Over 10 years of experience in the industry.  
-When I have free time, I contribute to my own or community GitHub projects.  
-
-You can find the list of my most interesting projects pinned below. 
-
-## Skills
-
-- JavaScript/TypeScript
-- C#, Azure, NodeJS
-- SharePoint
-- Power Automate
-- Anything necessary to get things done
+Full-stack software engineer, consultant working with Microsoft 365 and related technologies.
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,6 +11,6 @@ You can find the list of my most interesting projects pinned below.
 - [Configure Postman to be easily used with any Azure AD protected API &lpar;SharePoint, Graph, custom etc.&rpar;](https://spblog.net/post/2021/11/02/configure-postman-to-be-easily-used-with-any-azure-ad-protected-api-sharepoint-graph-etc/)
 <!-- BLOG-POST-LIST:END -->
 
+##
 
-
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg) ![TopLang](./profile/top-langs.svg)
