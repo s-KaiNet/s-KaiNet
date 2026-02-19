@@ -23,17 +23,10 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=transparent&exclude_repo=store-analysis,spblog,astro-theme,app-source-parser,gulp-spsave,sphooks&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools.svg
-          token: ${{ secrets.GH_TOKEN }}
       - name: Commit cards
         run: |
           git config user.name "github-actions"
